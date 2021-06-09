@@ -1,2 +1,2 @@
-# irb-redis
-ird by Redis
+# irc-redis
+irc by Redis
